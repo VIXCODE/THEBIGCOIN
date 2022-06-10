@@ -45,7 +45,7 @@ Daemon Linux
 Daemon Linux
 
 * Source code (zip)    - https://github.com/VIXCODE/THEBIGCOIN/archive/refs/tags/BIG_Binary_v.0.1.zip
-* Source code (tar.gz) - [Source code (tar.gz)](https://github.com/VIXCODE/THEBIGCOIN/archive/refs/tags/BIG_Binary_v.0.1.tar.gz)
+* Source code (tar.gz) - https://github.com/VIXCODE/THEBIGCOIN/archive/refs/tags/BIG_Binary_v.0.1.tar.gz
 
 ### LICENSE
 -------
