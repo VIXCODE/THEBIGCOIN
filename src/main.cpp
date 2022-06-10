@@ -1010,9 +1010,9 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 			else if(nBestHeight <= 200000)       {     nSubsidy = 60 * COIN;     }
 			else if(nBestHeight <= 300000)       {     nSubsidy = 40 * COIN;     }
 			else if(nBestHeight <= 1000000)     {     nSubsidy = 20 * COIN;     }			
-			 else if(nBestHeight <= 5000000)    {     nSubsidy = 10 * COIN;    }
-			 else if(nBestHeight <= 50000000)  {     nSubsidy =   5 * COIN;      }
-			 else if(nBestHeight <= 150000000){     nSubsidy =   1 * COIN;      }
+			else if(nBestHeight <= 5000000)    {     nSubsidy = 10 * COIN;    }
+			else if(nBestHeight <= 50000000)  {     nSubsidy =   5 * COIN;      }
+			else if(nBestHeight <= 150000000){     nSubsidy =   1 * COIN;      }
 			 
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
