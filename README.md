@@ -30,7 +30,8 @@ Thebigcoin - BIG is based on the Scrypt algorithm that offers instant transactio
 
 Wallet
 
-* - Windows -  
+* - Windows -  V1 - 
+* - Windows -  v2 -
 * - Linux Ubuntu 16.04 - 
 * - Linux Ubuntu 18.04 - 
 * - Linux Ubuntu 20.04 - 
@@ -38,7 +39,7 @@ Wallet
 Daemon Linux
 
 * - Linux Ubuntu 16.04 - 
-* - Linux Ubuntu 18.04 - 
+* - Linux Ubuntu 18.04 - https://github.com/VIXCODE/THEBIGCOIN/releases/download/untagged-3efa9193816a4e748655/Daemon_ub_18_04.rar
 * - Linux Ubuntu 20.04 - 
 
 ### LICENSE
