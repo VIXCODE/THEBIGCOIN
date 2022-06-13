@@ -38,7 +38,7 @@ Wallet
 
 Daemon Linux
 
-* Linux Ubuntu 16.04 - 
+* Linux Ubuntu 16.04 - https://github.com/VIXCODE/THEBIGCOIN/releases/download/BIG_Binary_v.0.1/Daemon_ub16_04.zip
 * Linux Ubuntu 18.04 - https://github.com/VIXCODE/THEBIGCOIN/releases/download/BIG_Binary_v.0.1/Daemon_ub_18_04.rar
 * Linux Ubuntu 20.04 - 
 
